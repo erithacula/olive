@@ -1,0 +1,22 @@
+body {
+    background-color: #a1b4a0 !important;
+}
+
+.olive-header {
+    background-color: #8D9E8E !important;
+    color: black !important;
+}
+
+.olive {
+    background-color: #a1b4a0 !important;
+}
+
+.olive-dark {
+    background-color: #1D271C !important;
+    color: white !important;
+    color: black !important;
+}
+
+.olive-text-dark {
+    color: #1D271C;
+}
